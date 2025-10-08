@@ -4,9 +4,7 @@
   "description": "Kenyan Cuts - Premium Barber Services Website",
   "main": "index.html",
   "scripts": {
-    "dev": "serve .",
-    "build": "echo 'Static site - no build needed'",
-    "start": "serve ."
+    "build": "echo 'No build required'"
   },
   "keywords": ["barber", "kenya", "nairobi", "haircut"],
   "author": "Kenya Cuts",
