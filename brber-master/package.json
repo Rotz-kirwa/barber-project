@@ -1,0 +1,17 @@
+{
+  "name": "kenya-cuts-barber",
+  "version": "1.0.0",
+  "description": "Kenyan Cuts - Premium Barber Services Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "serve ."
+  },
+  "keywords": ["barber", "kenya", "nairobi", "haircut"],
+  "author": "Kenya Cuts",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
